@@ -1,0 +1,8 @@
+QuickSorterTests coverage by eclemma
+statement coverage  100%
+branch coverage  10/10
+
+MergeSorterTests coverage by eclemma
+statement coverage  100%
+branch coverage  18/18
+

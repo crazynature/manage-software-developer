@@ -1,0 +1,5 @@
+Structural testing can cover low-level details missed in highlevel specifications¡£
+Like the if(list != null), we may not use any null as input, so the Structural testing will cover it.
+For the while(i<=m&&j<=n) part, functional test may miss some branches, the Structural testing will cover it.
+Functional testing use some special examples ,that will save us lots of time and reach a high coverage.
+The test for very large number like 10000000, if we run the test one by one ,it will wasted lots of time.

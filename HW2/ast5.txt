@@ -1,0 +1,6 @@
+By using static factory method, we can simplely create all variables by using AstFactory class. 
+We do not need an instance of AstFactory class and we can create all type of variable through only one class.
+This make us create the new expression or statement easier.
+I used sinleton on Sequence class, this make the program only can create one instance for Sequence.
+Because Sequence is the final result we want to see, so we only need one.
+This will save space, because when we create a new Sequence, we will not create a new instance, we just change the old one which will save the space.

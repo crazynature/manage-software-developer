@@ -1,0 +1,8 @@
+QuickSampleTests coverage by eclemma
+statement coverage  100%
+branch coverage  9/10
+
+MergeSampleTests coverage by eclemma
+statement coverage  100%
+branch coverage  17/18
+

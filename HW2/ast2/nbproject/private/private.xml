@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Declaration.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/PrefixExpression.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Statement.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/tests2/AST2Tests.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Operator.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Variable.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/test/ast2/AssignmentTest.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/NumberExpression.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Ast2.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Assignment.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Sequence.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/AstFactory.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/VariableExpression.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/InfixExpression.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Expression.java</file>
+            <file>file:/D:/OneDrive/文档/School/2017FALL/CS5500/HW2/ast2/src/ast2/Node.java</file>
+        </group>
+    </open-files>
+</project-private>
